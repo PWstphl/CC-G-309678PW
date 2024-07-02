@@ -1,4 +1,4 @@
-package bmi;
+package ASCII;
 import java.util.Random;
 import java.io.*;
 

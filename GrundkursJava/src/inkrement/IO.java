@@ -1,4 +1,4 @@
-package bmi;
+package inkrement;
 import java.util.Random;
 import java.io.*;
 
