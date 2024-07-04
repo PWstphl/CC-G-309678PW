@@ -49,7 +49,7 @@ public class rente {
 		else { System.out.println("Der Entnahmebetrag ist zu niedrig!");
 			 		}
 		
-					scanner.close();
+		scanner.close();
 			}
 		}
 	
